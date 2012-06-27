@@ -1,0 +1,4 @@
+#! /bin/bash
+
+node_modules/mocha/bin/mocha tests/proj-is683-test.js
+
